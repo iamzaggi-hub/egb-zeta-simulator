@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks (opcional: si quieres subir los notebooks, comenta esta línea)
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python package manager
+*.egg-info/
+dist/
+build/
+
+# Figure files (opcional: si quieres que se generen al clonar, comenta esta línea)
+# figures/
+
+# Test files
+*.log
+*.tmp
