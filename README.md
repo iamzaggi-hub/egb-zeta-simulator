@@ -88,7 +88,9 @@ Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detal
 📚 Cómo citar este trabajo
 Si utilizas este simulador en tu investigación, por favor cítalo como:
 
-Zapata García, F. J. (2026). egb-zeta-simulator: Simulador numérico para el manifiesto "Stability Analysis of Metric Tensor Perturbations in Einstein-Gauss-Bonnet Gravity via Riemann Zeta Distribution" (Version v1.0.1) [Código fuente]. Zenodo. https://doi.org/10.5281/zenodo.21226269
+Zapata García, F. J. (2026).
+egb-zeta-simulator: Simulador numérico para el manifiesto
+"Stability Analysis of Metric Tensor Perturbations in Einstein-Gauss-Bonnet Gravity via Riemann Zeta Distribution" (Version v1.0.1) [Código fuente]. Zenodo. https://doi.org/10.5281/zenodo.21226269
 
 📧 Contacto
 Francisco J. Zapata García (ZAGGI)
